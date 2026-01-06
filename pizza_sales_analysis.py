@@ -90,4 +90,5 @@ plt.title("Total Orders by Pizza Name")
 plt.xlabel("Number of Orders")
 plt.ylabel("Pizza Name")
 plt.gca().invert_yaxis()
+
 plt.show()
